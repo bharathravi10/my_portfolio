@@ -23,12 +23,6 @@ const Projects = () => {
           <br />
         </div>
         <div className="flex items-center lg:flex-row flex-col-reverse gap-5">
-          <img
-            src={Projects.image}
-            alt="..."
-            data-aos="fade-right"
-            className="max-w-[30vw] min-w-[18rem]"
-          />
           <Swiper
             pagination={{
               clickable: true,
