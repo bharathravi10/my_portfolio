@@ -1,5 +1,5 @@
 // import images
-import Hero_person from "./assets/images/Hero/profile.png";
+import Hero_person from "./assets/images/Hero/profile.webp";
 import Java_Script from "./assets/images/Skills/JavaScript.png"
 import reactjs from "./assets/images/Skills/react.png";
 import nodejs from "./assets/images/Skills/node.png";
@@ -17,7 +17,7 @@ import services_logo3 from "./assets/images/Services/Timer.jpeg";
 
 import project1 from "./assets/images/Projects/img1.jpeg";
 import project2 from "./assets/images/Projects/img2.webp";
-import person_project from "./assets/images/Projects/profile2.png";
+import person_project from "./assets/images/Projects/profile2.webp";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
 import avatar2 from "./assets/images/Testimonials/avatar2.png";
