@@ -15,9 +15,9 @@ import services_logo1 from "./assets/images/Services/developer.jpg";
 import services_logo2 from "./assets/images/Services/optimization.jpg";
 import services_logo3 from "./assets/images/Services/Timer.jpeg";
 
-import project1 from "./assets/images/projects/img1.jpeg";
-import project2 from "./assets/images/projects/img2.webp";
-import person_project from "./assets/images/projects/profile2.png";
+import project1 from "./assets/images/Projects/img1.jpeg";
+import project2 from "./assets/images/Projects/img2.webp";
+import person_project from "./assets/images/Projects/profile2.png";
 
 import avatar1 from "./assets/images/Testimonials/avatar1.png";
 import avatar2 from "./assets/images/Testimonials/avatar2.png";
