@@ -1,6 +1,6 @@
 // import images
 import Hero_person from "./assets/images/Hero/profile.png";
-import Java_Script from "./assets/images/Skills/javaScript.png";
+import Java_Script from "./assets/images/Skills/JavaScript.png"
 import reactjs from "./assets/images/Skills/react.png";
 import nodejs from "./assets/images/Skills/node.png";
 import nextjs from "./assets/images/Skills/nextjs3.webp";
